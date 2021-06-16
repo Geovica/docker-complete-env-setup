@@ -1,4 +1,5 @@
 # docker-complete-env-setup
+This is a setup for PHP mysql admin using Docker
 
 Open the terminal command line and go inside the laravel folder, and launch this commands:
 
